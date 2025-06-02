@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ user.first_name }} {{ user.last_name }} - Cover Letter</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            font-size: 12px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            margin-bottom: 30px;
+        }
+        .date {
+            margin-bottom: 20px;
+        }
+        .recipient {
+            margin-bottom: 20px;
+        }
+        .greeting {
+            margin-bottom: 20px;
+        }
+        .content {
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+        .closing {
+            margin-bottom: 40px;
+        }
+        .signature {
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            font-size: 11px;
+        }
+        @media print {
+            body {
+                font-size: 12px;
+            }
+            .container {
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div>{{ user.first_name }} {{ user.last_name }}</div>
+            {% if user.email %}
+            <div>{{ user.email }}</div>
+            {% endif %}
+            {% if user.phone %}
+            <div>{{ user.phone }}</div>
+            {% endif %}
+            {% if user.location %}
+            <div>{{ user.location }}</div>
+            {% endif %}
+        </div>
+        
+        <div class="date">{{ current_date }}</div>
+        
+        <div class="recipient">
+            {% if job.hiring_manager %}
+            <div>{{ job.hiring_manager }}</div>
+            {% endif %}
+            <div>{{ job.company }}</div>
+            {% if job.company_address %}
+            <div>{{ job.company_address }}</div>
+            {% endif %}
+        </div>
+        
+        <div class="greeting">
+            {% if job.hiring_manager %}
+            Dear {{ job.hiring_manager }},
+            {% else %}
+            Dear Hiring Manager,
+            {% endif %}
+        </div>
+        
+        <div class="content">
+            <p>{{ introduction }}</p>
+            
+            <p>{{ body }}</p>
+            
+            <p>{{ skills_match }}</p>
+            
+            {% if company_connection %}
+            <p>{{ company_connection }}</p>
+            {% endif %}
+            
+            <p>{{ call_to_action }}</p>
+        </div>
+        
+        <div class="closing">Sincerely,</div>
+        
+        <div class="signature">{{ user.first_name }} {{ user.last_name }}</div>
+        
+        <div class="contact-info">
+            {% if user.email %}{{ user.email }}{% endif %}
+            {% if user.email and user.phone %} | {% endif %}
+            {% if user.phone %}{{ user.phone }}{% endif %}
+            {% if (user.email or user.phone) and user.linkedin_url %} | {% endif %}
+            {% if user.linkedin_url %}<a href="{{ user.linkedin_url }}">LinkedIn</a>{% endif %}
+        </div>
+    </div>
+</body>
+</html>

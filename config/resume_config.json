@@ -1,0 +1,40 @@
+{
+    "templates": [
+        {
+            "name": "Modern",
+            "file": "modern_template.html",
+            "description": "Clean, modern design with subtle styling"
+        },
+        {
+            "name": "Professional",
+            "file": "professional_template.html",
+            "description": "Traditional professional layout"
+        },
+        {
+            "name": "Creative",
+            "file": "creative_template.html",
+            "description": "Bold design for creative roles"
+        },
+        {
+            "name": "Technical",
+            "file": "technical_template.html",
+            "description": "Focused on technical skills and projects"
+        }
+    ],
+    "default_template": "Professional",
+    "sections": [
+        "contact",
+        "summary",
+        "experience",
+        "skills",
+        "education",
+        "projects",
+        "certifications"
+    ],
+    "optional_sections": [
+        "publications",
+        "awards",
+        "languages",
+        "interests"
+    ]
+}

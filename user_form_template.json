@@ -1,0 +1,99 @@
+{
+    "personal_information": {
+        "first_name": "Karishma",
+        "last_name": "G\u200e",
+        "email": "",
+        "phone": "",
+        "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip_code": "",
+            "country": "United States"
+        },
+        "linkedin_url": "https://www.linkedin.com/in/karishma-garikapalli/",
+        "portfolio_url": "",
+        "github_url": "",
+        "other_websites": []
+    },
+    "visa_status": {
+        "status": "H1-B",
+        "requires_sponsorship": true,
+        "authorized_to_work": true,
+        "visa_expiration_date": ""
+    },
+    "job_preferences": {
+        "target_roles": [
+            "Sr. Fullstack Developer",
+            "Software Developer",
+            "Software Engineer"
+        ],
+        "target_industries": [
+            "Any"
+        ],
+        "preferred_locations": [],
+        "remote_preference": "",
+        "salary_expectations": {
+            "minimum": "",
+            "preferred": ""
+        },
+        "willing_to_relocate": false,
+        "start_date_availability": ""
+    },
+    "work_experience": [
+        {
+            "company": "Republic Services",
+            "title": "Sr. Fullstack Developer",
+            "location": "",
+            "start_date": "May 2025",
+            "end_date": "Present",
+            "description": "Built a configurable RAG pipeline for an internal project.",
+            "technologies": [],
+            "achievements": []
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical": [],
+        "soft": [],
+        "languages": [],
+        "certifications": []
+    },
+    "projects": [
+        {
+            "name": "",
+            "description": "",
+            "technologies": [],
+            "url": "",
+            "start_date": "",
+            "end_date": "",
+            "highlights": []
+        }
+    ],
+    "professional_anecdotes": [
+        {
+            "title": "",
+            "situation": "",
+            "task": "",
+            "action": "",
+            "result": "",
+            "skills_demonstrated": []
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "relationship": "",
+            "company": "",
+            "email": "",
+            "phone": ""
+        }
+    ],
+    "additional_information": {
+        "publications": [],
+        "patents": [],
+        "awards": [],
+        "volunteer_experience": [],
+        "interests": []
+    }
+}

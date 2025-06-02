@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ user.first_name }} {{ user.last_name }} - Cover Letter</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', 'Helvetica', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: white;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2d3e50;
+            margin-bottom: 5px;
+        }
+        .contact {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        .date {
+            text-align: right;
+            margin-bottom: 30px;
+            color: #7f8c8d;
+        }
+        .recipient {
+            margin-bottom: 30px;
+        }
+        .greeting {
+            font-size: 18px;
+            margin-bottom: 20px;
+            color: #2d3e50;
+        }
+        .content {
+            margin-bottom: 30px;
+        }
+        .content p {
+            margin-bottom: 15px;
+        }
+        .closing {
+            margin-bottom: 20px;
+        }
+        .signature {
+            font-weight: bold;
+            color: #2d3e50;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="name">{{ user.first_name }} {{ user.last_name }}</div>
+            <div class="contact">
+                {{ user.email }} | {{ user.phone }} | {{ user.location }}
+                {% if user.linkedin_url %} | <a href="{{ user.linkedin_url }}">LinkedIn</a>{% endif %}
+            </div>
+        </div>
+        
+        <div class="date">{{ current_date }}</div>
+        
+        <div class="recipient">
+            <div>{{ job.hiring_manager or 'Hiring Manager' }}</div>
+            <div>{{ job.company }}</div>
+            <div>{{ job.location }}</div>
+        </div>
+        
+        <div class="greeting">Dear {{ job.hiring_manager or 'Hiring Manager' }},</div>
+        
+        <div class="content">
+            <p>I am excited to apply for the {{ job.title }} position at {{ job.company }}. As a {{ user.current_title }} with {{ user.years_experience }} years of experience in {{ user.industry }}, I am eager to bring my expertise in {{ user.key_skills }} to your team.</p>
+            
+            <p>What draws me to {{ job.company }} is {{ job.company_appeal }}. I admire your company's {{ job.company_values }} and believe my background aligns perfectly with your mission to {{ job.company_mission }}.</p>
+            
+            <p>In my current role at {{ user.current_company }}, I have {{ user.current_achievements }}. This experience has honed my skills in {{ user.developed_skills }}, which I believe would transfer well to the {{ job.title }} position at {{ job.company }}.</p>
+            
+            <p>Some of my key accomplishments include:</p>
+            <ul>
+                {% for achievement in user.key_achievements %}
+                <li>{{ achievement }}</li>
+                {% endfor %}
+            </ul>
+            
+            <p>I am particularly interested in the opportunity to {{ job.opportunity }} at {{ job.company }}. My background in {{ user.relevant_background }} has prepared me well for the challenges of this role, and I am confident that I can make significant contributions to your team.</p>
+            
+            <p>Thank you for considering my application. I would welcome the opportunity to discuss how my skills and experiences align with your needs for the {{ job.title }} position.</p>
+        </div>
+        
+        <div class="closing">Sincerely,</div>
+        
+        <div class="signature">{{ user.first_name }} {{ user.last_name }}</div>
+    </div>
+</body>
+</html>

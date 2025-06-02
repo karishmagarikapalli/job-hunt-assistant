@@ -1,0 +1,59 @@
+# .gitignore for Job Hunt Ecosystem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.env
+
+# Flask
+instance/
+.webassets-cache
+
+# React/Node.js
+node_modules/
+/job_hunt_ui/build
+/job_hunt_ui/.env.local
+/job_hunt_ui/.env.development.local
+/job_hunt_ui/.env.test.local
+/job_hunt_ui/.env.production.local
+/job_hunt_ui/npm-debug.log*
+/job_hunt_ui/yarn-debug.log*
+/job_hunt_ui/yarn-error.log*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Generated documents
+/job_hunt_app/src/static/documents/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store

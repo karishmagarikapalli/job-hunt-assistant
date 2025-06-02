@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ user.first_name }} {{ user.last_name }} - Cover Letter</title>
+    <style>
+        body {
+            font-family: 'Calibri', 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            margin-bottom: 30px;
+        }
+        .date {
+            margin-bottom: 20px;
+        }
+        .recipient {
+            margin-bottom: 20px;
+        }
+        .greeting {
+            margin-bottom: 20px;
+        }
+        .content {
+            margin-bottom: 30px;
+        }
+        .closing {
+            margin-bottom: 40px;
+        }
+        .signature {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div>{{ user.first_name }} {{ user.last_name }}</div>
+        <div>{{ user.email }}</div>
+        <div>{{ user.phone }}</div>
+        <div>{{ user.location }}</div>
+    </div>
+    
+    <div class="date">{{ current_date }}</div>
+    
+    <div class="recipient">
+        <div>{{ job.hiring_manager or 'Hiring Manager' }}</div>
+        <div>{{ job.company }}</div>
+        <div>{{ job.location }}</div>
+    </div>
+    
+    <div class="greeting">Dear {{ job.hiring_manager or 'Hiring Manager' }},</div>
+    
+    <div class="content">
+        <p>I am writing to express my interest in the {{ job.title }} position at {{ job.company }}. With my background in {{ user.background }} and experience in {{ user.experience }}, I am confident that I would be a valuable addition to your team.</p>
+        
+        <p>Throughout my career, I have developed strong skills in {{ user.key_skills }}. In my current role as {{ user.current_title }} at {{ user.current_company }}, I have {{ user.current_achievements }}. Prior to this, as {{ user.previous_title }} at {{ user.previous_company }}, I successfully {{ user.previous_achievements }}.</p>
+        
+        <p>I am particularly drawn to {{ job.company }} because {{ job.company_appeal }}. The {{ job.title }} position appeals to me because {{ job.position_appeal }}. I am excited about the opportunity to {{ job.opportunity }}.</p>
+        
+        <p>I am confident that my skills in {{ job.required_skills }} make me an ideal candidate for this position. My experience with {{ job.relevant_experience }} has prepared me well for the challenges of this role.</p>
+        
+        <p>Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and experiences would benefit {{ job.company }}.</p>
+    </div>
+    
+    <div class="closing">Sincerely,</div>
+    
+    <div class="signature">{{ user.first_name }} {{ user.last_name }}</div>
+</body>
+</html>

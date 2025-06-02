@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-05-31 17:24:23",
+  "database": {
+    "status": "FAILED",
+    "message": "Missing required tables: users, jobs, resumes, cover_letters, applications"
+  },
+  "api": {
+    "status": "FAILED",
+    "message": "API server is not running"
+  },
+  "ai": {
+    "status": "PASSED",
+    "message": "AI modules validation passed",
+    "details": {
+      "job_matcher": "PASSED",
+      "document_generator": "PASSED"
+    }
+  },
+  "automation": {
+    "status": "PASSED",
+    "message": "Automation modules validation passed",
+    "details": {
+      "modules": {
+        "browser_automation": true,
+        "application_manager": true
+      },
+      "dependencies": {
+        "playwright": true
+      }
+    }
+  },
+  "frontend": {
+    "status": "PASSED",
+    "message": "Frontend components validation passed",
+    "details": {
+      "files": [
+        "job_hunt_ui/src/App.tsx",
+        "job_hunt_ui/src/lib/api.ts",
+        "job_hunt_ui/src/hooks/useAuth.tsx",
+        "job_hunt_ui/src/hooks/useJobs.tsx",
+        "job_hunt_ui/src/hooks/useDocuments.tsx",
+        "job_hunt_ui/src/hooks/useAI.tsx",
+        "job_hunt_ui/src/pages/Dashboard.tsx",
+        "job_hunt_ui/src/pages/JobList.tsx",
+        "job_hunt_ui/src/pages/JobDetail.tsx",
+        "job_hunt_ui/src/pages/DocumentManager.tsx",
+        "job_hunt_ui/src/pages/ApplicationTracker.tsx",
+        "job_hunt_ui/src/pages/Profile.tsx"
+      ]
+    }
+  },
+  "overall": {
+    "status": "FAILED",
+    "message": "System workflow validation failed due to missing components: database, api"
+  }
+}

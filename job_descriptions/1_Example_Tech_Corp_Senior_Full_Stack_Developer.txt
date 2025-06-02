@@ -1,0 +1,19 @@
+
+Job Title: Senior Full Stack Developer
+Company: Example Tech Corp
+Location: Remote, US
+Job Type: Full-time
+Date Posted: 2025-05-28
+Date Scraped: 2025-05-29 19:50:52
+Source: Example Job Board
+Application URL: https://example.com/careers/senior-full-stack-developer
+Salary Range: $120,000 - $150,000
+
+DESCRIPTION:
+We are looking for a Senior Full Stack Developer to join our team. The ideal candidate will have experience with React, Node.js, and AWS. This position offers H1B visa sponsorship for qualified candidates.
+
+REQUIREMENTS:
+- 5+ years of experience in full stack development
+- Strong knowledge of React, Node.js, and AWS
+- Experience with microservices architecture
+- Bachelor's degree in Computer Science or related field

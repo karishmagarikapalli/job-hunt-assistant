@@ -1,0 +1,152 @@
+{
+    "job_boards": [
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/jobs/",
+            "enabled": true
+        },
+        {
+            "name": "Indeed",
+            "url": "https://www.indeed.com/",
+            "enabled": true
+        },
+        {
+            "name": "Glassdoor",
+            "url": "https://www.glassdoor.com/",
+            "enabled": true
+        },
+        {
+            "name": "Monster",
+            "url": "https://www.monster.com/",
+            "enabled": false
+        },
+        {
+            "name": "ZipRecruiter",
+            "url": "https://www.ziprecruiter.com/",
+            "enabled": false
+        }
+    ],
+    "search_terms": [
+        "Software Developer",
+        "Full Stack Developer",
+        "Software Engineer",
+        "Senior Software Developer",
+        "Senior Full Stack Developer",
+        "Solution Engineer",
+        "Solutions Engineer",
+        "Technical Solutions Engineer",
+        "Solutions Architect",
+        "Developer Advocate",
+        "Technical Consultant"
+    ],
+    "locations": [],
+    "remote_only": false,
+    "job_types": ["Full-time"],
+    "h1b_sponsorship_keywords": [
+        "h1b",
+        "h-1b",
+        "visa sponsorship",
+        "sponsorship available",
+        "will sponsor",
+        "visa"
+    ],
+    "exclude_keywords": [
+        "clearance",
+        "security clearance",
+        "US citizen",
+        "citizenship required"
+    ],
+    "scrape_frequency": "daily",
+    "target_companies": [
+        {
+            "name": "Google",
+            "career_url": "https://careers.google.com/jobs/results/",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": ".gc-card",
+            "title_selector": ".gc-card__title",
+            "location_selector": ".gc-card__location",
+            "link_selector": ".gc-card__link",
+            "search_url_template": "https://careers.google.com/jobs/results/?q={search_term}&location={location}"
+        },
+        {
+            "name": "Microsoft",
+            "career_url": "https://careers.microsoft.com/us/en/search-results",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": ".job-card",
+            "title_selector": ".job-card__title",
+            "location_selector": ".job-card__location",
+            "link_selector": "a.job-card"
+        },
+        {
+            "name": "Amazon",
+            "career_url": "https://www.amazon.jobs/en/search",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": ".job-tile",
+            "title_selector": ".job-title",
+            "location_selector": ".location-and-id",
+            "link_selector": "a.job-link"
+        },
+        {
+            "name": "Apple",
+            "career_url": "https://jobs.apple.com/en-us/search",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": ".table-row",
+            "title_selector": ".table-col-1 a",
+            "location_selector": ".table-col-2",
+            "link_selector": ".table-col-1 a"
+        },
+        {
+            "name": "Meta",
+            "career_url": "https://www.metacareers.com/jobs",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": "._8sel",
+            "title_selector": "._8see",
+            "location_selector": "._8see + div",
+            "link_selector": "a._8see"
+        },
+        {
+            "name": "Salesforce",
+            "career_url": "https://salesforce.wd1.myworkdayjobs.com/External_Career_Site",
+            "enabled": true,
+            "scraper_type": "workday"
+        },
+        {
+            "name": "Adobe",
+            "career_url": "https://careers.adobe.com/us/en/search-results",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": ".job-tile",
+            "title_selector": ".job-title",
+            "location_selector": ".job-location"
+        },
+        {
+            "name": "IBM",
+            "career_url": "https://careers.ibm.com/job-search/",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": ".job-card",
+            "title_selector": ".job-card__title",
+            "location_selector": ".job-card__location"
+        },
+        {
+            "name": "Oracle",
+            "career_url": "https://oracle.taleo.net/careersection/2/jobsearch.ftl",
+            "enabled": true,
+            "scraper_type": "custom",
+            "job_selector": ".job-list-row",
+            "title_selector": ".job-list-title",
+            "location_selector": ".job-list-location"
+        },
+        {
+            "name": "Airbnb",
+            "career_url": "https://careers.airbnb.com/",
+            "enabled": true,
+            "scraper_type": "greenhouse"
+        }
+    ]
+}

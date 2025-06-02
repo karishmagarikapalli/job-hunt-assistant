@@ -1,0 +1,32 @@
+{
+    "templates": [
+        {
+            "name": "Standard",
+            "file": "standard_cover_letter.html",
+            "description": "Professional standard cover letter"
+        },
+        {
+            "name": "Modern",
+            "file": "modern_cover_letter.html",
+            "description": "Contemporary design with clean layout"
+        },
+        {
+            "name": "Technical",
+            "file": "technical_cover_letter.html",
+            "description": "Emphasizes technical skills and achievements"
+        }
+    ],
+    "default_template": "Standard",
+    "sections": [
+        "header",
+        "greeting",
+        "introduction",
+        "body",
+        "skills_match",
+        "company_connection",
+        "call_to_action",
+        "closing"
+    ],
+    "anecdotes_per_letter": 1,
+    "max_length_words": 400
+}

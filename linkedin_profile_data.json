@@ -1,0 +1,1864 @@
+{
+    "id": 554175928,
+    "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+    "username": "karishma-garikapalli",
+    "firstName": "Karishma",
+    "lastName": "G\u200e",
+    "isPremium": false,
+    "backgroundImage": [
+        {
+            "width": 779,
+            "height": 194,
+            "url": "https://media.licdn.com/dms/image/v2/C4E16AQGFDvYP52kc9A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1595218986602?e=1753920000&v=beta&t=Iu6IK32MCRaN2QD5sxpw3FQ6Cuxg-9i4WN_5mElp7TQ"
+        },
+        {
+            "width": 779,
+            "height": 194,
+            "url": "https://media.licdn.com/dms/image/v2/C4E16AQGFDvYP52kc9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1595218986602?e=1753920000&v=beta&t=r-SZ2ThqiwYC0DOJfW3p0RhSqpeXiOvsaNVOS4IMwLw"
+        }
+    ],
+    "summary": "SDE, Ambivert, Eternally curious.\n\nWhen I was 7 years old, I saw my grandfather access some old accounts and I couldn't take my eyes off the screen. As a child, I was fascinated by the idea of computers. That fascination latched onto something more fundamental, the idea of implementing a vision virtually. That was the moment that shaped the rest of my life. \n\nI have always enjoyed learning and the best part of learning is the understanding of where and why that learning can be applied. I take comfort in creating things and watching them work.\n\nAnd here is the concise version of the rest of my profile:\n\n\u2022 Working as a Software Automation Developer at AlignX AI for the AIM Team.\n\u2022 Worked as a Java Developer at Fannie Mae for the Chassis Team.\n\u2022 Working as a Software Developer for DevAppsIT LLC, leveraging a comprehensive suite of technologies to deliver high-performance software systems tailored to client needs. \n\u2022 Worked as a Software Development Engineer at Amazon Web Services for the AWS Investments Team.\n\u2022 Worked as a Software Developer for Indus Valley Consultants on a microservices project for the Erudex team.\n\u2022 Graduate student at Texas Tech University\n\u2022 Worked as a Software Engineer Intern at SenecaGlobal Pvt Ltd\n\u2022 Graduate Student Assistant at the Texas Tech University\n\u2022 Teaching Assistant at JNTU\n\u2022 Skill Set - Python, Java, SQL (MySQL, SQLYog, SQLite), Figma, JavaScript, TypeScript, HTML, CSS, Bootstrap, TailwindCSS, MongoDB, J2EE, Apache, Angular, Express, React, Node JS, XML, ProcessingJs, Spring Framework, Redux, Amazon Web Services, Git, NoSQL, Google Web Toolkit, Google Cloud Platform, Lambda, DynamoDB, S3, ElasticSearch, StateMachine, SNS, SQS, Agile methodologies, REST APIs, HTTP APIs, Gradle, Maven, Jenkins, Docker, Kubernetes, UCD, SonarQube, GitLab, BitBucket, Dynatrace, Jira, Kanban, Confluence, Kafka, Kinesis, IBM MQ, Redis",
+    "headline": "Software Development Engineer | Ex-Amazon",
+    "geo": {
+        "country": "United States",
+        "full": "United States",
+        "countryCode": "us"
+    },
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Telugu",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "educations": [
+        {
+            "start": {
+                "year": 2019,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 2021,
+                "month": 5,
+                "day": 0
+            },
+            "fieldOfStudy": "Computer Science",
+            "degree": "Master of Science - MS",
+            "grade": "3.6",
+            "schoolName": "Texas Tech University",
+            "description": "Reinforcement Learning, Human-Computer Interaction, Intelligent Systems, Theory of Automata, Information Retrieval, Analysis of Algorithms, Advanced Algorithms, Advanced Operating Systems Design.",
+            "activities": "An active member of the Indian Student Association (ISA).\nAn active member of Google DSC (Developer Student Club) at TTU.",
+            "url": "https://www.linkedin.com/school/texas-tech-university/",
+            "schoolId": "166340",
+            "logo": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D560BAQGkud-441bEhg/company-logo_200_200/company-logo_200_200/0/1719256966035/texas_tech_university_logo?e=1753920000&v=beta&t=jz37GDPdFQ0LgjGiOGNW5OfTcca02YgL6eCGDetMhkM",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D560BAQGkud-441bEhg/company-logo_100_100/company-logo_100_100/0/1719257421730/texas_tech_university_logo?e=1753920000&v=beta&t=EUz4Rn5B4x0bLJoH-jpjdPOIdGZHVPadB5_Hsd5KwqI",
+                    "width": 100,
+                    "height": 100
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D560BAQGkud-441bEhg/company-logo_400_400/company-logo_400_400/0/1719257390526/texas_tech_university_logo?e=1753920000&v=beta&t=SRdsyC6N4UPZ_ABkPCQQkcyyEORBg88rwjUqlP0zXHo",
+                    "width": 400,
+                    "height": 400
+                }
+            ]
+        },
+        {
+            "start": {
+                "year": 2015,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 0,
+                "day": 0
+            },
+            "fieldOfStudy": "Computer Science",
+            "degree": "Bachelor of Technology - BTech",
+            "grade": "8.73",
+            "schoolName": "Jawaharlal Nehru Technological University",
+            "description": "Algorithms & Data Structures, Object-Oriented Programming, Operating Systems, Web Development, Software Engineering, Computer Architecture, Artificial Intelligence, Cloud Computing, Data Warehousing, Database Management Systems.",
+            "activities": "Technical event organizer and Coordinator, Throwball.",
+            "url": "https://www.linkedin.com/school/jawaharlal-nehru-technological-university/",
+            "schoolId": "5943690",
+            "logo": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQF6hcspfBqstw/company-logo_200_200/company-logo_200_200/0/1631350985340?e=1753920000&v=beta&t=VXC2fs0oMpWUyWoZ1gRm3rCiMQncpf1i4NsYYvQPRIU",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQF6hcspfBqstw/company-logo_100_100/company-logo_100_100/0/1631350985340?e=1753920000&v=beta&t=lLP3W7S8u9U-4gBjdpLMx51Q5wjAMaR2GRfT5mNe470",
+                    "width": 100,
+                    "height": 100
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQF6hcspfBqstw/company-logo_400_400/company-logo_400_400/0/1631350985340?e=1753920000&v=beta&t=yuCWTrDwALo5Z-qyUvCDoc_DTcT3HAczNA9PJFcvMjM",
+                    "width": 400,
+                    "height": 400
+                }
+            ]
+        },
+        {
+            "start": {
+                "year": 2013,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 2015,
+                "month": 0,
+                "day": 0
+            },
+            "fieldOfStudy": "Mathematics, Physics, Chemistry",
+            "degree": "Board of Intermediate Education - Telangana State ",
+            "grade": "9.4",
+            "schoolName": "Narayana Junior College - India",
+            "description": "Mathematics, Physics, Chemistry, Statistics.",
+            "activities": "",
+            "url": "https://www.linkedin.com/school/narayana-junior-college---india/",
+            "schoolId": "7812893",
+            "logo": null
+        },
+        {
+            "start": {
+                "year": 2008,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 2013,
+                "month": 0,
+                "day": 0
+            },
+            "fieldOfStudy": "",
+            "degree": "High School Diploma - Central Board of Secondary Education",
+            "grade": "9.6",
+            "schoolName": "Oakridge International School",
+            "description": "English, Mathematics, History, Civics, Geography, Economics, Biology, Chemistry, Physics, Computer Basics.",
+            "activities": "Vice-Captain of the C. V. Raman house.\nOrganized Telugu Day and Exhibition.\nTennis, Basketball, Swimming, Theatre - Drama, Dance, Choir.",
+            "url": "https://www.linkedin.com/school/oakridge-international-school/",
+            "schoolId": "1193138",
+            "logo": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQF4AihTMYZ5nw/company-logo_200_200/company-logo_200_200/0/1630584986113/oakridge_international_school_logo?e=1753920000&v=beta&t=f1uu2GhiBSGRrXuGQQ8hn-ggQCCmxurUGRnx3r4BDIw",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQF4AihTMYZ5nw/company-logo_100_100/company-logo_100_100/0/1630584986113/oakridge_international_school_logo?e=1753920000&v=beta&t=_oNPUTfcC8x6-5z0IM1BiIhl7ATVOz3MMXOdofpFfk0",
+                    "width": 100,
+                    "height": 100
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQF4AihTMYZ5nw/company-logo_400_400/company-logo_400_400/0/1630584986113/oakridge_international_school_logo?e=1753920000&v=beta&t=nzV2lTgVRD66ncauAjmiizvSFaqNqL49TNzXICioUTQ",
+                    "width": 400,
+                    "height": 400
+                }
+            ]
+        }
+    ],
+    "position": [
+        {
+            "companyId": 105509786,
+            "companyName": "AlignX AI",
+            "companyUsername": "alignx-ai",
+            "companyURL": "https://www.linkedin.com/company/alignx-ai/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHwi9YZQRBDPg/company-logo_400_400/company-logo_400_400/0/1730236574493?e=1753920000&v=beta&t=hD7yK9jwZ-JLRkOmBzIWiTBgyAPGu7QfL_SkWlfpyRg",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Software Automation Developer",
+            "multiLocaleTitle": {
+                "en_US": "Software Automation Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "AlignX AI"
+            },
+            "location": "",
+            "locationType": "",
+            "description": "AlignX, an AI governance and compliance platform that helps organizations manage AI responsibly. It centralizes AI oversight, ensuring compliance with regulations like the EU AI Act and NIST AI RMF.\nThe platform offers AI project tracking, compliance monitoring, training data governance, and automated AI/ML scanning. It also includes user management, agent monitoring, prompt management, and advanced reporting dashboards.\n\n- Develop and maintain a NextJS-based front-end web application with a strong focus on user experience, performance, and responsiveness.\n- Design and implement an API Gateway using AWS API gateway to handle routing, load balancing, and security for backend services. \n- Develop and maintain high-performance APIs using FastAPI, ensuring scalability and efficiency with async capabilities. \n- Integrated and managed an Identity and Access Management system (Keycloak) for user authentication, authorization, and single sign-on (SSO). \n- Participate in the CI/CD pipeline setup and deployment process to ensure rapid development cycles.\n- Develop and execute test plans to ensure software quality, covering unit tests, integration tests, and end-to-end tests.\n- Identify and resolve performance bottlenecks and troubleshoot production issues to enhance application stability and reliability.",
+            "employmentType": "Contract",
+            "start": {
+                "year": 2024,
+                "month": 11,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 83494098,
+            "companyName": "DevAppsIT",
+            "companyUsername": "devappsit",
+            "companyURL": "https://www.linkedin.com/company/devappsit/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHGTUOBFRCWOA/company-logo_400_400/company-logo_400_400/0/1661423349473/devappsit_logo?e=1753920000&v=beta&t=c5oP4YvlizBj6AT_p7Us6Xi4rq1hzZ9D6iyy-oM9QEo",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Software Developer",
+            "multiLocaleTitle": {
+                "en_US": "Software Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "DevAppsIT"
+            },
+            "location": "Frisco, Texas, United States",
+            "locationType": "",
+            "description": "I specialize in crafting robust, scalable applications that drive business success through innovative technology solutions. My role involves leveraging a comprehensive suite of technologies to deliver high-performance software systems tailored to client needs.\n\nKey Technologies and Skills:\n- Java: Expertise in developing and optimizing Java applications.\n- Spring Framework: Proficient in using Spring Boot for building microservices architectures and managing RESTful APIs.\n- Hibernate: Experience in ORM for data persistence and transaction management.\n- Full-Stack Development: Skilled in integrating backend services with dynamic, responsive front-end interfaces.\n- Angular: Developing modern Single Page Applications (SPAs) with Angular up to version 17.\n- Kubernetes & Docker: Deploying containerized applications, managing CI/CD pipelines, and optimizing resource use for scalability and resilience.\n- Cloud Platforms: Experience with Google Cloud Platform (GCP) for cloud-native deployments and data processing.\n- Best Practices: Implementing software design principles, ensuring secure, maintainable, and high-quality code.\n\nI am committed to continuous learning, staying abreast of industry trends, and applying innovative solutions to enhance software performance and security. My collaborative approach and dedication to high standards ensure the delivery of successful, impactful software solutions.",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 19722,
+            "companyName": "Fannie Mae",
+            "companyUsername": "fanniemae",
+            "companyURL": "https://www.linkedin.com/company/fanniemae/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGv9l-bg4B0ow/company-logo_400_400/company-logo_400_400/0/1630570808033/fannie_mae_corporation_19722_logo?e=1753920000&v=beta&t=FmxrpIHvvx7Rzgzm6IbWZzBidiX12y0mJF1EXxfNLJQ",
+            "companyIndustry": "Financial Services",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Java Developer",
+            "multiLocaleTitle": {
+                "en_US": "Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Fannie Mae"
+            },
+            "location": "Plano, Texas, United States",
+            "locationType": "",
+            "description": "- Built and maintained components for internal framework to support proprietary customer use cases\n- Setup continuous integration with Jenkins and make use of a wide range of plugins available to set up smooth developer-friendly workflows\n- Made use of gradle and maven for building applications and written structured pom which can be consumed by Jenkins\n- Set up code coverage using Jacoco and SonarQube\n- Provided continuous testing with Selenium testing which involves end-to-end, api and ui frameworks\n- Setup SonarQube projects which correspond to Bit Bucket projects and provide code analysis of different programming standards \n- Have built Docker images and written Docker files which were used to automate all developer tasks\n- Develop the functionalities using Agile Scrum methodology.\n- Created reusable modules and custom directives in Angular 2.0 which were available to be consumed by customers.\n- Migrated internal framework from Java 8 to Java 17 and redeployed sample applications to account for the differences.\n- Implemented RESTful web services to retrieve data from the client side made REST API calls from Angular JS parsed the data to project to the client and handled the security and authorization using Spring Security and OAuth 2.0.",
+            "employmentType": "Contract",
+            "start": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            },
+            "end": {
+                "year": 2024,
+                "month": 7,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 2382910,
+            "companyName": "Amazon Web Services (AWS)",
+            "companyUsername": "amazon-web-services",
+            "companyURL": "https://www.linkedin.com/company/amazon-web-services/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1753920000&v=beta&t=UpVbfWyTTKDVB46qZ2z0rg1I7Uynf6bVieq46ZEVASo",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "10001+",
+            "title": "Software Development Engineer",
+            "multiLocaleTitle": {
+                "en_US": "Software Development Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Amazon Web Services (AWS)"
+            },
+            "location": "Seattle, Washington, United States",
+            "locationType": "",
+            "description": "\u25cf Designed and implemented various microservices to facilitate the data management for AWS pricing and promotions with Salesforce as a system or record.  The server salesforce data model was built using several standard and custom Salesforce objects. Implemented several RESTful connectors with various AWS services to fetch and synchronize the metadata required for calculating and updating pricing, promotions, and discounts.\n\u25cf Conceptualized and executed the design of HTTP APIs, thereby facilitating a seamless integration framework connecting web applications and backend systems. Pioneered the development of a microservice designed to manage, execute, and perpetuate a schedule of promotion disbursements. This feat was achieved through a skillful orchestration of EventBridge, Statemachines, Step functions, DynamoDB, and SQS queues. A concurrent microservice was engineered to apprise end customers of schedule progress using SES notifications.\n\u25cf Optimized database queries and improved system efficiency through performance tuning and code refactoring.\n\u25cf Collaborated with cross-functional teams to gather and analyze user requirements, ensuring alignment with business objectives.\n\u25cf Actively participated in Agile methodologies, including daily stand-ups, sprint planning, and retrospectives.\n\u25cf Led a team of developers in designing and building a scalable and secure feature using AWS services such as Amazon DynamoDB, Amazon S3, and Amazon Lambda",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2021,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 7,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 539115,
+            "companyName": "Indus Valley Consultants",
+            "companyUsername": "indusvalley-consultants",
+            "companyURL": "https://www.linkedin.com/company/indusvalley-consultants/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHgCYgpInjCeQ/company-logo_400_400/company-logo_400_400/0/1631336992961?e=1753920000&v=beta&t=NzyKyDLRB5im-RXn-iu7QKNLmheOh9Xl2nWgcZUSaTA",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "51 - 200",
+            "title": "Software Developer",
+            "multiLocaleTitle": {
+                "en_US": "Software Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Indus Valley Consultants"
+            },
+            "location": "Dayton, Ohio, United States",
+            "locationType": "",
+            "description": "- Successfully designed and implemented Microservices Architecture, improving system scalability and maintainability.\n- Orchestrated containerized applications using Docker and managed deployments with Kubernetes.\n- Developed secure RESTful APIs with Spring Boot, implementing JWT for enhanced authentication.\n- Established effective CI/CD pipelines using Jenkins, ensuring seamless integration and deployment processes.\n- Implemented responsive design with various front-end technologies, providing an optimal user experience.\n- Enhanced monitoring and logging systems, integrating ELK Stack and Prometheus/Grafana for comprehensive visibility.\n- Collaborated with cross-functional teams, utilizing Agile methodologies to meet project milestones efficiently.\n\nSkillset: \nProgramming Languages: Java\nMicroservices Frameworks: Spring Boot, Spring Cloud\nContainerization and Orchestration: Docker, Kubernetes\nAPI Gateway: Netflix OSS (Zuul), Eureka\nMessage Brokers: Kafka, RabbitMQ\nDatabases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)\nVersion Control: Git\nContinuous Integration/Continuous Deployment (CI/CD): Jenkins, GitLab CI, Travis CI\nFront-end Technologies: HTML5, CSS3, JavaScript (React, Angular, Vue.js)\nResponsive Design Frameworks: Bootstrap, Materialize CSS, Foundation\nRESTful APIs: Java Spring Boot\nContainerization and Orchestration: Docker, Kubernetes\nTesting: JUnit, TestNG, Postman, Insomnia\nMonitoring and Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana\nSecurity: Spring Security, JWT (JSON Web Tokens)\nProject Management: Jira, Trello, Asana\nCollaboration Platforms: Slack, Microsoft Teams, Confluence\nCloud Platforms: AWS, Azure, Google Cloud\nAgile Methodologies: Scrum, Kanban\nCode Review Tools: Bitbucket, GitHub",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2021,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 2021,
+                "month": 8,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 5943690,
+            "companyName": "Jawaharlal Nehru Technological University",
+            "companyUsername": "jawaharlal-nehru-technological-university",
+            "companyURL": "https://www.linkedin.com/school/jawaharlal-nehru-technological-university/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6hcspfBqstw/company-logo_400_400/company-logo_400_400/0/1631350985340?e=1753920000&v=beta&t=yuCWTrDwALo5Z-qyUvCDoc_DTcT3HAczNA9PJFcvMjM",
+            "companyIndustry": "Higher Education",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Teaching Assistant",
+            "multiLocaleTitle": {
+                "en_US": "Teaching Assistant"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Jawaharlal Nehru Technological University"
+            },
+            "location": "Hyderabad, Telangana, India",
+            "locationType": "",
+            "description": "\u2022 Instructed concepts of Web Programming and Software Engineering, graded assignments, and evaluated projects.\n\u2022 Reviewed and graded the major projects of 60 students and helped with their system design.",
+            "employmentType": "Part-time",
+            "start": {
+                "year": 2018,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 5,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 5943690,
+            "companyName": "Jawaharlal Nehru Technological University",
+            "companyUsername": "jawaharlal-nehru-technological-university",
+            "companyURL": "https://www.linkedin.com/school/jawaharlal-nehru-technological-university/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6hcspfBqstw/company-logo_400_400/company-logo_400_400/0/1631350985340?e=1753920000&v=beta&t=yuCWTrDwALo5Z-qyUvCDoc_DTcT3HAczNA9PJFcvMjM",
+            "companyIndustry": "Higher Education",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Undergraduate Computer Science Student",
+            "multiLocaleTitle": {
+                "en_US": "Undergraduate Computer Science Student"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Jawaharlal Nehru Technological University"
+            },
+            "location": "Hyderabad, Telangana, India",
+            "locationType": "",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2015,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 5,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 429631,
+            "companyName": "SenecaGlobal, Inc.",
+            "companyUsername": "senecaglobal",
+            "companyURL": "https://www.linkedin.com/company/senecaglobal/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJqvQhCtRB5w/company-logo_400_400/company-logo_400_400/0/1655224192274/senecaglobal_logo?e=1753920000&v=beta&t=5zWSfXyI0dunSzQzcC4jAYXmcE0t1TUIM9f9h2CYbrE",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Software Engineer Intern",
+            "multiLocaleTitle": {
+                "en_US": "Software Engineer Intern"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "SenecaGlobal, Inc."
+            },
+            "location": "Hyderabad Area, India",
+            "locationType": "",
+            "description": "- The project, named \"Library Management System,\" aimed to enhance the performance and efficiency of cataloging and managing library resources.\n- The primary goal of the optimization initiative was to streamline the functionality of the Library Management System, ensuring faster and more responsive operations.\n- The system facilitated the cataloging of diverse library resources, including books, journals, and multimedia materials.\n- Efficiently managed resource data, allowing for easy retrieval, tracking, and updating of library holdings.\n- Leveraged JavaScript to enhance the interactivity and responsiveness of the user interface.\n- Utilized JDBC/ODBC connectors to establish seamless communication between the Java application and the Oracle Database.\n- Implemented HTML and CSS for an intuitive and visually appealing front-end design.\n- Employed SQL queries to optimize database interactions, ensuring quick and accurate retrieval of information.\n- Fine-tuned database queries to minimize response times and enhance overall system performance.\n- Improved the user experience by optimizing the presentation layer with HTML and CSS.\n- Enabled users to navigate the system effortlessly and perform cataloging and resource management tasks efficiently.\n- The optimized Library Management System delivered a more responsive and user-friendly experience, significantly reducing the time required for cataloging and resource retrieval.\n- Showcased proficiency in Java programming using Eclipse IDE.\n- Demonstrated expertise in database management with Oracle.\n- Applied front-end development skills with JavaScript, HTML, and CSS.\n- Leveraged JDBC/ODBC connectors for efficient database connectivity.\n- Applied SQL for optimizing database queries.\n- The optimized system not only enhanced performance but also contributed to the overall efficiency of library operations, providing a reliable and streamlined resource management solution.",
+            "employmentType": "Internship",
+            "start": {
+                "year": 2018,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 2018,
+                "month": 6,
+                "day": 0
+            }
+        }
+    ],
+    "fullPositions": [
+        {
+            "companyId": 105509786,
+            "companyName": "AlignX AI",
+            "companyUsername": "alignx-ai",
+            "companyURL": "https://www.linkedin.com/company/alignx-ai/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHwi9YZQRBDPg/company-logo_400_400/company-logo_400_400/0/1730236574493?e=1753920000&v=beta&t=hD7yK9jwZ-JLRkOmBzIWiTBgyAPGu7QfL_SkWlfpyRg",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Software Automation Developer",
+            "multiLocaleTitle": {
+                "en_US": "Software Automation Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "AlignX AI"
+            },
+            "location": "",
+            "locationType": "",
+            "description": "AlignX, an AI governance and compliance platform that helps organizations manage AI responsibly. It centralizes AI oversight, ensuring compliance with regulations like the EU AI Act and NIST AI RMF.\nThe platform offers AI project tracking, compliance monitoring, training data governance, and automated AI/ML scanning. It also includes user management, agent monitoring, prompt management, and advanced reporting dashboards.\n\n- Develop and maintain a NextJS-based front-end web application with a strong focus on user experience, performance, and responsiveness.\n- Design and implement an API Gateway using AWS API gateway to handle routing, load balancing, and security for backend services. \n- Develop and maintain high-performance APIs using FastAPI, ensuring scalability and efficiency with async capabilities. \n- Integrated and managed an Identity and Access Management system (Keycloak) for user authentication, authorization, and single sign-on (SSO). \n- Participate in the CI/CD pipeline setup and deployment process to ensure rapid development cycles.\n- Develop and execute test plans to ensure software quality, covering unit tests, integration tests, and end-to-end tests.\n- Identify and resolve performance bottlenecks and troubleshoot production issues to enhance application stability and reliability.",
+            "employmentType": "Contract",
+            "start": {
+                "year": 2024,
+                "month": 11,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 83494098,
+            "companyName": "DevAppsIT",
+            "companyUsername": "devappsit",
+            "companyURL": "https://www.linkedin.com/company/devappsit/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHGTUOBFRCWOA/company-logo_400_400/company-logo_400_400/0/1661423349473/devappsit_logo?e=1753920000&v=beta&t=c5oP4YvlizBj6AT_p7Us6Xi4rq1hzZ9D6iyy-oM9QEo",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Software Developer",
+            "multiLocaleTitle": {
+                "en_US": "Software Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "DevAppsIT"
+            },
+            "location": "Frisco, Texas, United States",
+            "locationType": "",
+            "description": "I specialize in crafting robust, scalable applications that drive business success through innovative technology solutions. My role involves leveraging a comprehensive suite of technologies to deliver high-performance software systems tailored to client needs.\n\nKey Technologies and Skills:\n- Java: Expertise in developing and optimizing Java applications.\n- Spring Framework: Proficient in using Spring Boot for building microservices architectures and managing RESTful APIs.\n- Hibernate: Experience in ORM for data persistence and transaction management.\n- Full-Stack Development: Skilled in integrating backend services with dynamic, responsive front-end interfaces.\n- Angular: Developing modern Single Page Applications (SPAs) with Angular up to version 17.\n- Kubernetes & Docker: Deploying containerized applications, managing CI/CD pipelines, and optimizing resource use for scalability and resilience.\n- Cloud Platforms: Experience with Google Cloud Platform (GCP) for cloud-native deployments and data processing.\n- Best Practices: Implementing software design principles, ensuring secure, maintainable, and high-quality code.\n\nI am committed to continuous learning, staying abreast of industry trends, and applying innovative solutions to enhance software performance and security. My collaborative approach and dedication to high standards ensure the delivery of successful, impactful software solutions.",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 19722,
+            "companyName": "Fannie Mae",
+            "companyUsername": "fanniemae",
+            "companyURL": "https://www.linkedin.com/company/fanniemae/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGv9l-bg4B0ow/company-logo_400_400/company-logo_400_400/0/1630570808033/fannie_mae_corporation_19722_logo?e=1753920000&v=beta&t=FmxrpIHvvx7Rzgzm6IbWZzBidiX12y0mJF1EXxfNLJQ",
+            "companyIndustry": "Financial Services",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Java Developer",
+            "multiLocaleTitle": {
+                "en_US": "Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Fannie Mae"
+            },
+            "location": "Plano, Texas, United States",
+            "locationType": "",
+            "description": "- Built and maintained components for internal framework to support proprietary customer use cases\n- Setup continuous integration with Jenkins and make use of a wide range of plugins available to set up smooth developer-friendly workflows\n- Made use of gradle and maven for building applications and written structured pom which can be consumed by Jenkins\n- Set up code coverage using Jacoco and SonarQube\n- Provided continuous testing with Selenium testing which involves end-to-end, api and ui frameworks\n- Setup SonarQube projects which correspond to Bit Bucket projects and provide code analysis of different programming standards \n- Have built Docker images and written Docker files which were used to automate all developer tasks\n- Develop the functionalities using Agile Scrum methodology.\n- Created reusable modules and custom directives in Angular 2.0 which were available to be consumed by customers.\n- Migrated internal framework from Java 8 to Java 17 and redeployed sample applications to account for the differences.\n- Implemented RESTful web services to retrieve data from the client side made REST API calls from Angular JS parsed the data to project to the client and handled the security and authorization using Spring Security and OAuth 2.0.",
+            "employmentType": "Contract",
+            "start": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            },
+            "end": {
+                "year": 2024,
+                "month": 7,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 2382910,
+            "companyName": "Amazon Web Services (AWS)",
+            "companyUsername": "amazon-web-services",
+            "companyURL": "https://www.linkedin.com/company/amazon-web-services/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1753920000&v=beta&t=UpVbfWyTTKDVB46qZ2z0rg1I7Uynf6bVieq46ZEVASo",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "10001+",
+            "title": "Software Development Engineer",
+            "multiLocaleTitle": {
+                "en_US": "Software Development Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Amazon Web Services (AWS)"
+            },
+            "location": "Seattle, Washington, United States",
+            "locationType": "",
+            "description": "\u25cf Designed and implemented various microservices to facilitate the data management for AWS pricing and promotions with Salesforce as a system or record.  The server salesforce data model was built using several standard and custom Salesforce objects. Implemented several RESTful connectors with various AWS services to fetch and synchronize the metadata required for calculating and updating pricing, promotions, and discounts.\n\u25cf Conceptualized and executed the design of HTTP APIs, thereby facilitating a seamless integration framework connecting web applications and backend systems. Pioneered the development of a microservice designed to manage, execute, and perpetuate a schedule of promotion disbursements. This feat was achieved through a skillful orchestration of EventBridge, Statemachines, Step functions, DynamoDB, and SQS queues. A concurrent microservice was engineered to apprise end customers of schedule progress using SES notifications.\n\u25cf Optimized database queries and improved system efficiency through performance tuning and code refactoring.\n\u25cf Collaborated with cross-functional teams to gather and analyze user requirements, ensuring alignment with business objectives.\n\u25cf Actively participated in Agile methodologies, including daily stand-ups, sprint planning, and retrospectives.\n\u25cf Led a team of developers in designing and building a scalable and secure feature using AWS services such as Amazon DynamoDB, Amazon S3, and Amazon Lambda",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2021,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 7,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 539115,
+            "companyName": "Indus Valley Consultants",
+            "companyUsername": "indusvalley-consultants",
+            "companyURL": "https://www.linkedin.com/company/indusvalley-consultants/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHgCYgpInjCeQ/company-logo_400_400/company-logo_400_400/0/1631336992961?e=1753920000&v=beta&t=NzyKyDLRB5im-RXn-iu7QKNLmheOh9Xl2nWgcZUSaTA",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "51 - 200",
+            "title": "Software Developer",
+            "multiLocaleTitle": {
+                "en_US": "Software Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Indus Valley Consultants"
+            },
+            "location": "Dayton, Ohio, United States",
+            "locationType": "",
+            "description": "- Successfully designed and implemented Microservices Architecture, improving system scalability and maintainability.\n- Orchestrated containerized applications using Docker and managed deployments with Kubernetes.\n- Developed secure RESTful APIs with Spring Boot, implementing JWT for enhanced authentication.\n- Established effective CI/CD pipelines using Jenkins, ensuring seamless integration and deployment processes.\n- Implemented responsive design with various front-end technologies, providing an optimal user experience.\n- Enhanced monitoring and logging systems, integrating ELK Stack and Prometheus/Grafana for comprehensive visibility.\n- Collaborated with cross-functional teams, utilizing Agile methodologies to meet project milestones efficiently.\n\nSkillset: \nProgramming Languages: Java\nMicroservices Frameworks: Spring Boot, Spring Cloud\nContainerization and Orchestration: Docker, Kubernetes\nAPI Gateway: Netflix OSS (Zuul), Eureka\nMessage Brokers: Kafka, RabbitMQ\nDatabases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)\nVersion Control: Git\nContinuous Integration/Continuous Deployment (CI/CD): Jenkins, GitLab CI, Travis CI\nFront-end Technologies: HTML5, CSS3, JavaScript (React, Angular, Vue.js)\nResponsive Design Frameworks: Bootstrap, Materialize CSS, Foundation\nRESTful APIs: Java Spring Boot\nContainerization and Orchestration: Docker, Kubernetes\nTesting: JUnit, TestNG, Postman, Insomnia\nMonitoring and Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana\nSecurity: Spring Security, JWT (JSON Web Tokens)\nProject Management: Jira, Trello, Asana\nCollaboration Platforms: Slack, Microsoft Teams, Confluence\nCloud Platforms: AWS, Azure, Google Cloud\nAgile Methodologies: Scrum, Kanban\nCode Review Tools: Bitbucket, GitHub",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2021,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 2021,
+                "month": 8,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 5943690,
+            "companyName": "Jawaharlal Nehru Technological University",
+            "companyUsername": "jawaharlal-nehru-technological-university",
+            "companyURL": "https://www.linkedin.com/school/jawaharlal-nehru-technological-university/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6hcspfBqstw/company-logo_400_400/company-logo_400_400/0/1631350985340?e=1753920000&v=beta&t=yuCWTrDwALo5Z-qyUvCDoc_DTcT3HAczNA9PJFcvMjM",
+            "companyIndustry": "Higher Education",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Teaching Assistant",
+            "multiLocaleTitle": {
+                "en_US": "Teaching Assistant"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Jawaharlal Nehru Technological University"
+            },
+            "location": "Hyderabad, Telangana, India",
+            "locationType": "",
+            "description": "\u2022 Instructed concepts of Web Programming and Software Engineering, graded assignments, and evaluated projects.\n\u2022 Reviewed and graded the major projects of 60 students and helped with their system design.",
+            "employmentType": "Part-time",
+            "start": {
+                "year": 2018,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 5,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 5943690,
+            "companyName": "Jawaharlal Nehru Technological University",
+            "companyUsername": "jawaharlal-nehru-technological-university",
+            "companyURL": "https://www.linkedin.com/school/jawaharlal-nehru-technological-university/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6hcspfBqstw/company-logo_400_400/company-logo_400_400/0/1631350985340?e=1753920000&v=beta&t=yuCWTrDwALo5Z-qyUvCDoc_DTcT3HAczNA9PJFcvMjM",
+            "companyIndustry": "Higher Education",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Undergraduate Computer Science Student",
+            "multiLocaleTitle": {
+                "en_US": "Undergraduate Computer Science Student"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Jawaharlal Nehru Technological University"
+            },
+            "location": "Hyderabad, Telangana, India",
+            "locationType": "",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2015,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 5,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 429631,
+            "companyName": "SenecaGlobal, Inc.",
+            "companyUsername": "senecaglobal",
+            "companyURL": "https://www.linkedin.com/company/senecaglobal/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJqvQhCtRB5w/company-logo_400_400/company-logo_400_400/0/1655224192274/senecaglobal_logo?e=1753920000&v=beta&t=5zWSfXyI0dunSzQzcC4jAYXmcE0t1TUIM9f9h2CYbrE",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Software Engineer Intern",
+            "multiLocaleTitle": {
+                "en_US": "Software Engineer Intern"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "SenecaGlobal, Inc."
+            },
+            "location": "Hyderabad Area, India",
+            "locationType": "",
+            "description": "- The project, named \"Library Management System,\" aimed to enhance the performance and efficiency of cataloging and managing library resources.\n- The primary goal of the optimization initiative was to streamline the functionality of the Library Management System, ensuring faster and more responsive operations.\n- The system facilitated the cataloging of diverse library resources, including books, journals, and multimedia materials.\n- Efficiently managed resource data, allowing for easy retrieval, tracking, and updating of library holdings.\n- Leveraged JavaScript to enhance the interactivity and responsiveness of the user interface.\n- Utilized JDBC/ODBC connectors to establish seamless communication between the Java application and the Oracle Database.\n- Implemented HTML and CSS for an intuitive and visually appealing front-end design.\n- Employed SQL queries to optimize database interactions, ensuring quick and accurate retrieval of information.\n- Fine-tuned database queries to minimize response times and enhance overall system performance.\n- Improved the user experience by optimizing the presentation layer with HTML and CSS.\n- Enabled users to navigate the system effortlessly and perform cataloging and resource management tasks efficiently.\n- The optimized Library Management System delivered a more responsive and user-friendly experience, significantly reducing the time required for cataloging and resource retrieval.\n- Showcased proficiency in Java programming using Eclipse IDE.\n- Demonstrated expertise in database management with Oracle.\n- Applied front-end development skills with JavaScript, HTML, and CSS.\n- Leveraged JDBC/ODBC connectors for efficient database connectivity.\n- Applied SQL for optimizing database queries.\n- The optimized system not only enhanced performance but also contributed to the overall efficiency of library operations, providing a reliable and streamlined resource management solution.",
+            "employmentType": "Internship",
+            "start": {
+                "year": 2018,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 2018,
+                "month": 6,
+                "day": 0
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "Spring Cloud",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Docker",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Kubernetes",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Bitbucket",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Redux.js",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "TypeScript",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Serverless Framework",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Amazon Dynamodb",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Amazon SQS",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Amazon S3",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "SES",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Amazon Simple Notification Service (SNS)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Algorithms",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Java",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "JavaScript",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Data Structures",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Web Development",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Statistics",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Web Analytics",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Software Development",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Cloud Computing",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "SQL",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Python (Programming Language)",
+            "passedSkillAssessment": true,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "C (Programming Language)",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "Hadoop",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Bootstrap",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "MongoDB",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Django",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "HTML",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "MySQL",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Google Analytics",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "React.js",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Spring Framework",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Amazon Web Services (AWS)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "AWS Lambda",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "NoSQL",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "AngularJS",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "PostgreSQL",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Git",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "XML",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Node.js",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "PHP",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Figma (Software)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Express.js",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Microservices",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "DevOps",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Spring Boot",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Spring MVC",
+            "passedSkillAssessment": false
+        }
+    ],
+    "courses": [
+        {
+            "name": "Advanced Algorithms",
+            "number": ""
+        },
+        {
+            "name": "Advanced Operating Systems Design",
+            "number": ""
+        },
+        {
+            "name": "Algorithm Design",
+            "number": ""
+        },
+        {
+            "name": "Analysis of Algorithms",
+            "number": ""
+        },
+        {
+            "name": "Artificial Intelligence",
+            "number": ""
+        },
+        {
+            "name": "C Programming",
+            "number": ""
+        },
+        {
+            "name": "Cloud Computing",
+            "number": ""
+        },
+        {
+            "name": "Computer Organization and Architecture",
+            "number": ""
+        },
+        {
+            "name": "Data Structures",
+            "number": ""
+        },
+        {
+            "name": "Human Computer Interaction",
+            "number": ""
+        },
+        {
+            "name": "Information Retrieval",
+            "number": ""
+        },
+        {
+            "name": "Intelligent Systems",
+            "number": ""
+        },
+        {
+            "name": "Object Oriented Programming",
+            "number": ""
+        },
+        {
+            "name": "Operating Systems",
+            "number": ""
+        },
+        {
+            "name": "Reinforcement Learning",
+            "number": ""
+        },
+        {
+            "name": "Theory of Automata",
+            "number": ""
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microservices Foundations",
+            "start": {
+                "year": 2021,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Advanced SQL for Query Tuning and Performance Optimization",
+            "start": {
+                "year": 2020,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Google Analytics Essential Training",
+            "start": {
+                "year": 2020,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Machine Learning for Business Professionals",
+            "start": {
+                "year": 2020,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "NLP with Python for Machine Learning Essential Training",
+            "start": {
+                "year": 2020,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "SQL Essential Training",
+            "start": {
+                "year": 2020,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Statistics Foundations: 1",
+            "start": {
+                "year": 2020,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Statistics Foundations: 2",
+            "start": {
+                "year": 2020,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Statistics Foundations: 3",
+            "start": {
+                "year": 2020,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "LinkedIn",
+            "company": {
+                "name": "LinkedIn",
+                "universalName": "linkedin",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1753920000&v=beta&t=Elu76EOlDCgl0Oko3CH4vULJ_2PeCDmPdZeuiJ00Gs8",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Convolutional Neural Networks",
+            "start": {
+                "year": 2018,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Deep Learning Specialization",
+            "start": {
+                "year": 2018,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Sequence Models",
+            "start": {
+                "year": 2018,
+                "month": 3,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Big Data Integration and Processing",
+            "start": {
+                "year": 2018,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Graph Analytics for Big Data",
+            "start": {
+                "year": 2018,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Machine Learning With Big Data",
+            "start": {
+                "year": 2018,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+            "start": {
+                "year": 2017,
+                "month": 10,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Introduction to Big Data",
+            "start": {
+                "year": 2017,
+                "month": 10,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Neural Networks and Deep Learning",
+            "start": {
+                "year": 2017,
+                "month": 10,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Structuring Machine Learning Projects",
+            "start": {
+                "year": 2017,
+                "month": 10,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Coursera",
+            "company": {
+                "name": "Coursera",
+                "universalName": "coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1753920000&v=beta&t=JbdoIb7tSxcQ-caHgILm5cF95uYksYeomRWlsevSZVk",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Android Application Developement",
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "NECTAR SOFTWARE LTD",
+            "company": {
+                "name": "NECTAR SOFTWARE LTD",
+                "universalName": "nectar-software-ltd",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        }
+    ],
+    "projects": {
+        "total": 8,
+        "items": [
+            {
+                "title": "2020: Survival",
+                "description": "\u2022 Developed a VR game designed to spread awareness on COVID Health Guidelines in younger kids. \u2022 Led a team of 4 people to develop and deploy a multilevel game. \u2022 Worked with Unity 3D, Mapbox, Blender, GitHub and C#. ",
+                "start": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    }
+                ]
+            },
+            {
+                "title": "Augmented Reality (AR) shooting game",
+                "description": "\u2022\tDeveloped and deployed a shooting game on Augmented Reality\n\u2022\tThe skillset used in this project is Git, HTML5, CSS, JavaScript, A-Frame, JQuery, Bootstrap, CreateJs\n\nShooting game based on Augmented Reality\n1) From the markers' position of A and B, zombies are spawned and run towards the middle marker to attack.\n2) The target is in the middle of the screen. To protect our space, the user fights back the zombie by direct the target towards the zombies.\n3) For each dead zombie, the score increases by 1.\n4) Spawn more zombies by button Play",
+                "start": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    }
+                ]
+            },
+            {
+                "title": "Bipedal Model",
+                "description": "\u2022\tUsed DDPG algorithm and MuJoCo - Humanoid to model and train a Bipedal Model to walk autonomously learning from its surroundings using Reinforcement Learning\n\u2022\tThe model could maintain balance and walk irrespective of the terrain and its obstacles",
+                "start": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    }
+                ]
+            },
+            {
+                "title": "SmartReflection - Team Lead",
+                "description": "\u2022\tUsed processing to develop a Smart Mirror with personalization\n\u2022\tThe skillset used in this project is HTML, P5, CSS, JavaScript, Git\n\nThe features are as follows:\n-> There is a feature in our mirror that will let you know if you have spent more than an hour in front of the mirror.\n-> Displays time and date\n-> Shows the weather and temperature information of the region\n-> Allows users to play music on Spotify\n-> Displays personalized calendar events\n-> We have options to sync the mirror to your phone and connect to WiFi\n-> There are Day Mode and Night Mode to the mirror that adjusts the light of the mirror according to the time of the day\n-> The mirror lets you access your social media and newsfeed\n-> It has settings and widgets options to let you customize your mirror\n-> There is an option called moods that would play a specific playlist to suit your mood",
+                "start": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    }
+                ]
+            },
+            {
+                "title": "Intrusion Detection using Machine Learning Algorithms - Team Lead",
+                "description": "\u2022\tCompared the performance of 3 machine learning classifiers on various datasets\n\u2022\tOptimized the best performing classifier for intrusion detection on a network\n\u2022\tWorked on/with Python 3 as a programming language, Jupyter Notebook as a platform, and various Datasets\n\u2022\tThe Algorithms used in the project are Support Vector Machine, Random Forest, and Extreme Learning Machine",
+                "start": {
+                    "year": 2019,
+                    "month": 1,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    }
+                ]
+            },
+            {
+                "title": "Digital Certificate Storage - Team Lead",
+                "description": "\u2022\tI have used Eclipse IDE (Java) and Oracle DataBase to generated authenticated certificates for students of a registered college\n\u2022\tThe skill set used for this project is JavaScript, Bootstrap, SQL, HTML, CSS, Java, Spring Framework MVC",
+                "start": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    }
+                ]
+            },
+            {
+                "title": "Grocery List - Team Lead",
+                "description": "\u2022\tUsed voice commands and speech-to-text mechanisms to develop an Alexa Skill on AWS that creates, updates, and deletes Grocery Lists using voice as an interface\n\u2022\tThe skill set used in this project is AWS, Automatic Speech Recognition (ASR) Evaluation tool, Java, and AWS Lambda\n\u2022\tLed a team of 4 people into securing 4th place in a nation-wide hackathon called Alexathon",
+                "start": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    },
+                    {
+                        "urn": "ACoAABuLVa4BQde4AzZ9nmpgbI8ehy3l-0MQcII",
+                        "username": "vamsi-krishna-kalakuntla-49291810a",
+                        "fullName": "Vamsi Krishna Kalakuntla",
+                        "firstName": "Vamsi Krishna",
+                        "lastName": "Kalakuntla",
+                        "profilePicture": null,
+                        "headline": "Senior Data Engineer at Vanguard",
+                        "url": "https://www.linkedin.com/in/vamsi-krishna-kalakuntla-49291810a"
+                    }
+                ]
+            },
+            {
+                "title": "Library Management System - Intern",
+                "description": "\u2022\tI used Eclipse IDE (Java) and Oracle Database to optimize a project called \u201cLibrary Management System\u201d, which cataloged and managed library resources, for performance\n\u2022\tThe skillset I used was; JavaScript, JDBC/ODBC connectors, HTML, CSS and SQL\n",
+                "start": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACEIDbgByauEvgKQvl-dW8TBkQY3xVkgJng",
+                        "username": "karishma-garikapalli",
+                        "fullName": "Karishma G\u200e",
+                        "firstName": "Karishma",
+                        "lastName": "G\u200e",
+                        "profilePicture": null,
+                        "headline": "Software Development Engineer | Ex-Amazon",
+                        "url": "https://www.linkedin.com/in/karishma-garikapalli"
+                    }
+                ]
+            }
+        ]
+    },
+    "volunteering": [
+        {
+            "title": "L-1 Coordinator",
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "companyName": "Street Cause",
+            "CompanyId": "13224086",
+            "companyUrl": "https://www.linkedin.com/company/13224086",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGIaNmw3qYjxw/company-logo_400_400/company-logo_400_400/0/1712279071395?e=1753920000&v=beta&t=uzUd4NpWiX0ONyn-se2spnBDNXfcRZZQtw-6i1vZo1I"
+        },
+        {
+            "title": "Volunteer",
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "companyName": "Earthlings NGO",
+            "CompanyId": "14483113",
+            "companyUrl": "https://www.linkedin.com/company/14483113",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHx8roovhvXFQ/company-logo_400_400/company-logo_400_400/0/1630573852406/earthlings_ngo_logo?e=1753920000&v=beta&t=PWH5mAqrJ1weRfHlqy8RPgfLkJUi4rXqDu6EZhleJi8"
+        }
+    ],
+    "supportedLocales": [
+        {
+            "country": "US",
+            "language": "en"
+        }
+    ],
+    "multiLocaleFirstName": {
+        "en": "Karishma"
+    },
+    "multiLocaleLastName": {
+        "en": "G\u200e"
+    },
+    "multiLocaleHeadline": {
+        "en": "Software Development Engineer | Ex-Amazon"
+    }
+}

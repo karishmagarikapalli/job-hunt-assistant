@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ user.first_name }} {{ user.last_name }} - Technical Cover Letter</title>
+    <style>
+        body {
+            font-family: 'Roboto', 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .personal-info {
+            flex: 1;
+        }
+        .name {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .title {
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .contact {
+            font-size: 14px;
+        }
+        .links {
+            flex: 1;
+            text-align: right;
+            font-size: 14px;
+        }
+        .date {
+            margin-bottom: 30px;
+        }
+        .recipient {
+            margin-bottom: 30px;
+        }
+        .greeting {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .content {
+            margin-bottom: 30px;
+        }
+        .content p {
+            margin-bottom: 15px;
+        }
+        .tech-skills {
+            background-color: #f9f9f9;
+            padding: 15px;
+            margin: 20px 0;
+            border-left: 3px solid #ddd;
+        }
+        .tech-skills h3 {
+            margin-top: 0;
+            font-size: 16px;
+        }
+        .tech-skills ul {
+            display: flex;
+            flex-wrap: wrap;
+            list-style-type: none;
+            padding-left: 0;
+            margin: 0;
+        }
+        .tech-skills li {
+            margin-right: 15px;
+            margin-bottom: 5px;
+            background-color: #eee;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+        .closing {
+            margin-bottom: 20px;
+        }
+        .signature {
+            font-weight: bold;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="personal-info">
+            <div class="name">{{ user.first_name }} {{ user.last_name }}</div>
+            <div class="title">{{ user.current_title }}</div>
+            <div class="contact">
+                {{ user.email }}<br>
+                {{ user.phone }}<br>
+                {{ user.location }}
+            </div>
+        </div>
+        <div class="links">
+            {% if user.linkedin_url %}<a href="{{ user.linkedin_url }}">LinkedIn</a><br>{% endif %}
+            {% if user.github_url %}<a href="{{ user.github_url }}">GitHub</a><br>{% endif %}
+            {% if user.portfolio_url %}<a href="{{ user.portfolio_url }}">Portfolio</a>{% endif %}
+        </div>
+    </div>
+    
+    <div class="date">{{ current_date }}</div>
+    
+    <div class="recipient">
+        <div>{{ job.hiring_manager or 'Hiring Manager' }}</div>
+        <div>{{ job.company }}</div>
+        <div>{{ job.location }}</div>
+    </div>
+    
+    <div class="greeting">Dear {{ job.hiring_manager or 'Hiring Manager' }},</div>
+    
+    <div class="content">
+        <p>I am writing to express my interest in the {{ job.title }} position at {{ job.company }}. As a {{ user.current_title }} with expertise in {{ user.technical_expertise }}, I am excited about the opportunity to contribute to your team's technical initiatives.</p>
+        
+        <p>My technical background includes {{ user.years_experience }} years of experience developing {{ user.development_experience }}. In my current role at {{ user.current_company }}, I have {{ user.current_technical_achievements }}. This has strengthened my abilities in {{ user.strengthened_abilities }}, which align well with the requirements for the {{ job.title }} position.</p>
+        
+        <div class="tech-skills">
+            <h3>Technical Skills Relevant to This Position:</h3>
+            <ul>
+                {% for skill in job.required_skills %}
+                {% if skill in user.skills %}
+                <li>{{ skill }}</li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <p>I am particularly impressed by {{ job.company }}'s {{ job.company_tech_appeal }}. Your work on {{ job.company_projects }} resonates with my interest in {{ user.technical_interests }}. I am eager to apply my experience with {{ user.relevant_technologies }} to help {{ job.company }} {{ job.company_goals }}.</p>
+        
+        <p>Some technical achievements that demonstrate my qualifications include:</p>
+        <ul>
+            {% for achievement in user.technical_achievements %}
+            <li>{{ achievement }}</li>
+            {% endfor %}
+        </ul>
+        
+        <p>I am confident that my technical skills, problem-solving abilities, and passion for {{ user.passion }} would make me a valuable addition to your team. I am excited about the prospect of contributing to {{ job.company }}'s innovative work and growing professionally in this role.</p>
+        
+        <p>Thank you for considering my application. I look forward to discussing how my technical background and experience can benefit {{ job.company }}.</p>
+    </div>
+    
+    <div class="closing">Sincerely,</div>
+    
+    <div class="signature">{{ user.first_name }} {{ user.last_name }}</div>
+</body>
+</html>
