@@ -1,0 +1,70 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '16.x'
+      
+      - name: Debug - List repository contents
+        run: |
+          ls -la
+          echo "Current directory: $(pwd)"
+      
+      - name: Debug - Check job_hunt_ui directory
+        run: |
+          if [ -d "job_hunt_ui" ]; then
+            echo "job_hunt_ui directory exists"
+            ls -la job_hunt_ui/
+          else
+            echo "job_hunt_ui directory NOT FOUND"
+            echo "Available directories:"
+            ls -la
+          fi
+      
+      - name: Install dependencies
+        run: |
+          cd job_hunt_ui || exit 1
+          npm install
+      
+      - name: Build
+        run: |
+          cd job_hunt_ui || exit 1
+          npm run build
+          echo "Build completed, checking build directory:"
+          ls -la build/ || echo "Build directory not found!"
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v1
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: './job_hunt_ui/build'
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
