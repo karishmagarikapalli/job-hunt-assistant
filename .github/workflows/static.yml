@@ -35,12 +35,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '16'
+          # Disable npm cache to avoid issues with missing package-lock.json
           cache: 'npm'
-          cache-dependency-path: job_hunt_ui/package-lock.json
+          cache-dependency-path: '**/package.json'
       - name: Install dependencies
         run: |
           cd job_hunt_ui
-          npm ci || npm install
+          npm install
       - name: Build
         run: |
           cd job_hunt_ui
